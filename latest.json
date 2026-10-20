@@ -1,7 +1,7 @@
 {
-  "version": "4.3.5",
+  "version": "1.0.0",
   "platform": "windows-x64",
-  "url": "https://github.com/aminethaifa64/optiflix-updates/releases/download/v4.3.5/OptiFlix-Setup.exe",
-  "sha256": "06a79a4b1a281bc2285c7af9f77ff41b2ab221e61602b7bc2fc9474c11b6552c",
-  "notes": "Aligned live-channel cards with movie and series posters in mixed collections. Fixed title and favorite-button alignment."
+  "url": "https://github.com/aminethaifa64/optiflix-updates/releases/download/v1.0.0/OptiFlix-Setup.exe",
+  "sha256": "a0cf66a747af5ae81d1ff2f33db0306096ffa178be280fabd5d05c2c131ab683",
+  "notes": "Automatic in-app update notifications and version numbering reset to 1.0.0."
 }
