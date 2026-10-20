@@ -1,7 +1,7 @@
 {
   "version": "1.0.5",
   "platform": "windows-x64",
-  "url": "https://github.com/aminethaifa64/optiflix-updates/releases/download/v1.0.5/OptiFlix-Setup.exe",
-  "sha256": "21b6c7a18d09f389afacb770674f6665b6f50a83a8e4602991cff6ec4abea370",
+"url": "https://github.com/aminethaifa64/optiflix-updates/releases/download/1.0.5/OptiFlix-Setup.exe",
+"sha256": "21b6c7a18d09f389afacb770674f6665b6f50a83a8e4602991cff6ec4abea370",
   "notes": "Faster video loading, smoother playback controls, improved buffering, cached movie and episode details, safer channel switching, and automatic playback recovery."
 }
