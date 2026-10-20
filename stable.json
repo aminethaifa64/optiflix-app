@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "platform": "windows-x64",
+  "url": "https://github.com/aminethaifa64/optiflix-updates/releases/download/v1.0.0/OptiFlix-Setup.exe",
+  "sha256": "a0cf66a747af5ae81d1ff2f33db0306096ffa178be280fabd5d05c2c131ab683",
+  "notes": "Automatic in-app update notifications and version numbering reset to 1.0.0."
+}
