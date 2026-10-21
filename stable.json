@@ -2,6 +2,6 @@
   "version": "1.1.0",
   "platform": "windows-x64",
   "url": "https://github.com/aminethaifa64/optiflix-updates/releases/download/v1.1.0/OptiFlix-Setup.exe",
-  "sha256": "e350990c8b9135ebdbd6c8f29dfe6aa1777b9d92a189a01e711ebf1c03d59407",
+  "sha256": "965766ae3b20072fcf92f9b57f87a9d06bbb2289867c9b39c0672f3b9e914ac3",
   "notes": "Improved update reliability and download progress. Saved audio and subtitle preferences, subtitle sizing, audio delay, and optional next-episode autoplay with a cancellable countdown."
 }
