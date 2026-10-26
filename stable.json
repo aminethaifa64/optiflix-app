@@ -3,5 +3,5 @@
   "platform": "windows-x64",
   "url": "https://github.com/aminethaifa64/optiflix-updates/releases/download/v1.2.0/OptiFlix-Setup.exe",
   "sha256": "012776c3f09b562ed4ca17f7f33645f67d59e28a376c57f6dc93aa1dd1555e20",
-  "notes": "Faster initial content display, background search preparation, Movies and Series pages with 32 titles per batch and automatic loading as you scroll, and Live TV preview controls for fullscreen, play/pause, mute, volume and reconnect. Search channels without restarting the current broadcast. Modern clock and date cards scroll away with the page instead of covering content. Favorites update instantly and save without rewriting the full library. Live TV navigation and toolbar alignment are unified, with reduced caches and on-demand video initialization to lower memory usage. Sized poster/background artwork, reduced blur and closed-page image cleanup further reduce WebView memory."
+  "notes": "Faster initial content display."
 }
