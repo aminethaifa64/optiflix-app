@@ -2,6 +2,6 @@
   "version": "1.2.0",
   "platform": "windows-x64",
   "url": "https://github.com/aminethaifa64/optiflix-updates/releases/download/v1.2.0/OptiFlix-Setup.exe",
-  "sha256": "b10331def541781526948e90e7d8a2b1350778baa3a296a33df97469dc84f488",
-  "notes": "New cinematic Movies and Series design, episode Grid/List views, one-click Live TV side playback, animated favorites, smoother library loading and search, and improved window positioning."
+  "sha256": "932f98f5d4b1681d77a409d9d181fa41ebe41f8efe3b58a49668a95b8dbb4799",
+  "notes": "Faster initial content display, background search preparation, Movies and Series pages with 32 titles per batch and automatic loading as you scroll, and Live TV preview controls for fullscreen, play/pause, mute, volume and reconnect. Search channels without restarting the current broadcast. Modern clock and date cards scroll away with the page instead of covering content. Favorites update instantly and save without rewriting the full library."
 }
